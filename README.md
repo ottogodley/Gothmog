@@ -1,2 +1,0 @@
-# Gothmog
-The Horrible One!
